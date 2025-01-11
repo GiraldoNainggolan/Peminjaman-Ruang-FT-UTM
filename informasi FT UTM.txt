@@ -1,0 +1,207 @@
+Lantai 2 
+201 :  Ruang Kuliah Teknik Industri (43) √
+202 : Ruang Kuliah Teknik Industri (50) √
+203 : Ruang Kuliah Teknik Informatika 
+204 : Ruang Kuliah Sistem Informasi
+205 : Ruang Baca FT
+206 : Ruang Kuliah Teknik Elektro
+207 : Ruang Kuliah Teknik Mekatronika
+208 : Ruang Kuliah Teknik Industri (52)  
+
+Lantai 3 
+301 : Ruang Kuliah Teknik Elektro
+302 : Ruang Kuliah Teknik Industri (49) √
+303 : Ruang Kuliah Teknik Industri (53) √
+304 : Ruang Kuliah Teknik Informatika
+305 : Ruang Kuliah Teknik Industri
+306 : Ruang Kuliah Teknik Informatika
+307 : Ruang Kuliah Sistem Informasi
+308 : Ruang Kuliah Sistem Informasi
+
+Lantai 4 :
+401 : Ruang Kuliah
+402 : Ruang Kuliah Teknik Mesin
+403 : Ruang Kuliah Teknik Mesin
+404 : Ruang Kuliah Teknik Mesin
+405 : Ruang Kuliah Teknik Elektro
+406 : Ruang Kuliah Teknik Informatika
+407 : Ruang Kuliah Teknik Informatika
+408 : Ruang Kuliah Sistem Informasi
+
+
+
+Ruang Kuliah Teknik Industri
+Lantai 2:
+
+201 : Ruang Kuliah Teknik Industri (43) √
+202 : Ruang Kuliah Teknik Industri (50) √
+208 : Ruang Kuliah Teknik Industri (52)
+Lantai 3:
+
+302 : Ruang Kuliah Teknik Industri (49) √
+303 : Ruang Kuliah Teknik Industri (53) √
+305 : Ruang Kuliah Teknik Industri (48)
+Ruang Kuliah Teknik Informatika
+Lantai 2:
+
+203 : Ruang Kuliah Teknik Informatika (47)
+Lantai 3:
+
+304 : Ruang Kuliah Teknik Informatika (45)
+306 : Ruang Kuliah Teknik Informatika (40)
+Lantai 4:
+
+406 : Ruang Kuliah Teknik Informatika (44)
+407 : Ruang Kuliah Teknik Informatika (50)
+Ruang Kuliah Sistem Informasi
+Lantai 2:
+
+204 : Ruang Kuliah Sistem Informasi (42)
+Lantai 3:
+
+307 : Ruang Kuliah Sistem Informasi (43)
+308 : Ruang Kuliah Sistem Informasi (44)
+Lantai 4:
+
+408 : Ruang Kuliah Sistem Informasi (48)
+Ruang Kuliah Teknik Elektro
+Lantai 2:
+
+206 : Ruang Kuliah Teknik Elektro (44)
+Lantai 3:
+
+301 : Ruang Kuliah Teknik Elektro (46)
+Lantai 4:
+
+405 : Ruang Kuliah Teknik Elektro (45)
+Ruang Kuliah Teknik Mekatronika
+Lantai 2:
+207 : Ruang Kuliah Teknik Mekatronika (49)
+Ruang Kuliah Teknik Mesin
+Lantai 4:
+402 : Ruang Kuliah Teknik Mesin (49)
+403 : Ruang Kuliah Teknik Mesin (42)
+404 : Ruang Kuliah Teknik Mesin (46)
+Ruang Kuliah Umum
+Lantai 4:
+401 : Ruang Kuliah (41)
+Ruang Baca
+Lantai 2:
+205 : Ruang Baca FT
+
+
+
+Ruang Kuliah Teknik Industri
+201: Ruang kuliah ini dilengkapi dengan papan tulis, proyektor, dan LCD TV untuk mendukung pembelajaran teknik produksi dan manajemen industri.
+
+202: Ruangan modern dengan kapasitas besar, sering digunakan untuk kelas diskusi dan presentasi proyek kelompok, dilengkapi dengan papan tulis, proyektor, dan LCD TV.
+
+208: Dirancang untuk kenyamanan belajar, ruang ini memiliki ventilasi yang baik, tata kursi fleksibel, serta papan tulis, proyektor, dan LCD TV.
+
+302: Dilengkapi dengan perangkat audio-visual canggih, papan tulis, proyektor, dan LCD TV untuk mendukung pembelajaran teknik operasional industri.
+
+303: Memiliki meja berbentuk U yang cocok untuk diskusi kelompok, didukung oleh papan tulis, proyektor, dan LCD TV.
+
+305: Ruang ini memiliki suasana kondusif dengan pencahayaan alami, pendingin ruangan, serta papan tulis, proyektor, dan LCD TV.
+
+Ruang Kuliah Teknik Informatika
+203: Fasilitas lengkap untuk coding dan simulasi perangkat lunak, ruangan ini dilengkapi dengan papan tulis, proyektor, dan LCD TV.
+
+304: Ruang kelas untuk desain perangkat lunak dengan papan tulis, proyektor, dan LCD TV yang mendukung pengajaran algoritma dan struktur data.
+
+306: Dirancang untuk seminar kecil, ruangan ini memiliki meja fleksibel, papan tulis, proyektor, dan LCD TV.
+
+406: Dilengkapi dengan perangkat komputer, papan tulis, proyektor, dan LCD TV untuk pelatihan praktis dalam pemrograman aplikasi.
+
+407: Ruang ini sering digunakan untuk pengembangan web dengan akses internet cepat, papan tulis, proyektor, dan LCD TV.
+
+Ruang Kuliah Sistem Informasi
+204: Ruangan ini dilengkapi dengan papan tulis, proyektor, LCD TV, dan ruang yang ideal untuk pengajaran sistem basis data.
+
+307: Suasana tenang membuatnya cocok untuk pembelajaran analisis sistem, didukung oleh papan tulis, proyektor, dan LCD TV.
+
+308: Memiliki tempat duduk ergonomis, papan tulis, proyektor, dan LCD TV untuk memastikan kenyamanan selama jam kuliah panjang.
+
+408: Dirancang dengan dekorasi modern, ruangan ini memiliki papan tulis, proyektor, dan LCD TV untuk pembelajaran pengembangan sistem ERP.
+
+Ruang Kuliah Teknik Elektro
+206: Ruangan ini dilengkapi dengan perangkat simulasi elektronik, papan tulis, proyektor, dan LCD TV untuk mendukung pembelajaran praktis.
+301: Memiliki fasilitas alat peraga, papan tulis, proyektor, dan LCD TV untuk mendukung kuliah berbasis praktik.
+405: Ideal untuk pembelajaran jaringan listrik dengan papan tulis, proyektor, LCD TV, dan perangkat demonstrasi.
+Ruang Kuliah Teknik Mekatronika
+207: Ruang ini memiliki fasilitas robotik dasar, papan tulis, proyektor, dan LCD TV untuk pembelajaran pengembangan sistem otomatis.
+Ruang Kuliah Teknik Mesin
+402: Ruangan luas dengan alat peraga mesin, papan tulis, proyektor, dan LCD TV untuk praktik desain mekanik.
+403: Dilengkapi dengan perangkat multimedia, papan tulis, proyektor, dan LCD TV untuk pengajaran teori mekanika.
+404: Ruang ini sering digunakan untuk simulasi mekanik dan diskusi proyek teknik mesin dengan dukungan papan tulis, proyektor, dan LCD TV.
+Ruang Kuliah Umum
+401: Ruangan multifungsi yang sering digunakan untuk seminar, kuliah umum, atau pelatihan mahasiswa, dilengkapi dengan papan tulis, proyektor, dan LCD TV.
+Ruang Baca
+205: Ruang baca ini memiliki koleksi buku teknik yang lengkap, suasana tenang, serta papan tulis, proyektor, dan LCD TV untuk presentasi kelompok kecil.
+
+
+assets/images/ruang/201b.jpeg
+assets/images/ruang/202b.jpeg
+assets/images/ruang/203b.jpeg
+assets/images/ruang/301b.jpeg
+assets/images/ruang/301ICT.jpeg
+assets/images/ruang/302b.jpeg
+assets/images/ruang/default-room-image.jpeg
+assets/images/ruang/Lab2A.jpeg
+assets/images/ruang/LabDigital.jpeg
+assets/images/ruang/LabICT.jpeg
+
+
+
+Ruang Kuliah Sistem Informasi
+Lantai 2:
+
+204 : Ruang Kuliah Sistem Informasi (42)
+Gambar: assets/images/ruang/301b.jpeg
+Lantai 3:
+
+307 : Ruang Kuliah Sistem Informasi (43)
+Gambar: assets/images/ruang/LabDigital.jpeg
+308 : Ruang Kuliah Sistem Informasi (44)
+Gambar: assets/images/ruang/default-room-image.jpeg
+Lantai 4:
+
+408 : Ruang Kuliah Sistem Informasi (48)
+Gambar: assets/images/ruang/202b.jpeg
+Ruang Kuliah Teknik Elektro
+Lantai 2:
+
+206 : Ruang Kuliah Teknik Elektro (44)
+Gambar: assets/images/ruang/LabICT.jpeg
+Lantai 3:
+
+301 : Ruang Kuliah Teknik Elektro (46)
+Gambar: assets/images/ruang/301b.jpeg
+Lantai 4:
+
+405 : Ruang Kuliah Teknik Elektro (45)
+Gambar: assets/images/ruang/203b.jpeg
+Ruang Kuliah Teknik Mekatronika
+Lantai 2:
+
+207 : Ruang Kuliah Teknik Mekatronika (49)
+Gambar: assets/images/ruang/Lab2A.jpeg
+Ruang Kuliah Teknik Mesin
+Lantai 4:
+
+402 : Ruang Kuliah Teknik Mesin (49)
+Gambar: assets/images/ruang/302b.jpeg
+403 : Ruang Kuliah Teknik Mesin (42)
+Gambar: assets/images/ruang/201b.jpeg
+404 : Ruang Kuliah Teknik Mesin (46)
+Gambar: assets/images/ruang/LabDigital.jpeg
+Ruang Kuliah Umum
+Lantai 4:
+
+401 : Ruang Kuliah (41)
+Gambar: assets/images/ruang/default-room-image.jpeg
+Ruang Baca
+Lantai 2:
+
+205 : Ruang Baca FT
+Gambar: assets/images/ruang/301ICT.jpeg
